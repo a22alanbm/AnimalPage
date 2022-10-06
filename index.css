@@ -1,0 +1,13 @@
+<html>
+<div id = "1" style = "background-color: #999;" onclick = "cambiar_fondo_con_style(id)"></div>
+<div id = "2" style = "background-color: #333;" onclick = "cambiar_fondo_con_style(id)"></div>
+<div id = "3" style = "background-color: #666;" onclick = "cambiar_fondo_con_style(id)"></div>
+<head>
+<style>
+</style>
+<script>
+</script>
+</head>
+<body>
+</body>
+</html>
